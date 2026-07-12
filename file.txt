@@ -3,4 +3,8 @@ hello from main branch
 
 
 
+<<<<<<< HEAD
 MAIN
+=======
+feature2
+>>>>>>> c2a21c2 (feature2 commit)
